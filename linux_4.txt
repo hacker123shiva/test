@@ -1,0 +1,45 @@
+command:
+vi and vim are text editor ---- CLI mode
+gedit are text editor ---- GUI mode
+
+cd /Download --change directory from root to Download
+shortcut: cd Dow and put tab button --diretly make cd /Download
+
+pwd --- present working directory
+i.e root/Download
+mkdir shiva 
+make new folder name with shiva in Download folder
+
+ls ---list all file
+ls -l list all file with property
+
+ls -lh list all file with property which are in human readilble form
+
+shiva.txt file in shiva folder
+and you want to download
+
+rm shiva.txt
+
+and want to download folder shiva
+
+rm -rf shiva
+
+
+vi text editor 
+open terminal :
+write vi 
+text editor open
+write command 
+for vi in vi text ediitor
+ 
+click i
+to start writing 
+
+if you want to save the file 
+click esc
+then shift + :
+then write 
+wq -- w for writng an d q for quite after saving the file
+
+
+vim is also same 
